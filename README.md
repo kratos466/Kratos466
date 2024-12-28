@@ -1,4 +1,4 @@
-<h1>Hi, Hello im Jerome, an IT Specialist<br/></h1>
+<h1>Hello im Jerome, an IT Specialist<br/></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
