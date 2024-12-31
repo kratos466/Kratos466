@@ -8,7 +8,7 @@
 
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/Kratos466/Package-Delivery-Pathfinding-Algorithm)
 
-<a href="http://127.0.0.1:5500/">/github.com/kratos466/booking website</a>
+<a href="http://127.0.0.1:5500/">/http://127.0.0.1:5500/github/kratos466/booking website</a>
 
 
 <h2> 📫 Contact me:</h2>
